@@ -1,0 +1,21 @@
+User login :
+log in with the given credentials
+
+LAMP stack:
+menubar > Marketplace >search LAMP > launch
+assign zone 
+then click deploy
+
+verify deployment :
+click site address - to see your website
+
+In gcconsole
+select SSH
+cd /opt/bitnami     #change working directory
+sudo sh -c 'echo "<?php phpinfo(); ?>" > apache2/htdocs/phpinfo.php'       
+#to copy phpinfo.php script from installation directory to publicly accessible location under web server its is used to verify your php installation             
+exit     # close ssh
+
+IN new browser tab 
+http://SITE_ADDRESS/phpinfo.php     # type address for a summary oh php configuration
+close php tab

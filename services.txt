@@ -1,0 +1,14 @@
+IAAS : infrastructure as a service - raw compute storage and network :
+    Infrastructure as a service (IaaS) is a service model that delivers computer infrastructure on an outsourced basis to support various operations. Typically IaaS is a service where infrastructure is provided as outsourcing to enterprises such as networking equipment, devices, database, and web servers. 
+It is also known as Hardware as a Service (HaaS). IaaS customers pay on a per-user basis, typically by the hour, week, or month. Some providers also charge customers based on the amount of virtual machine space they use. 
+It simply provides the underlying operating systems, security, networking, and servers for developing such applications, and services, and deploying development tools, databases, etc. 
+
+PAAS : Platform as a service - bind application code :
+    It is a category of cloud computing that provides a platform and environment to allow developers to build applications and services over the internet. PaaS services are hosted in the cloud and accessed by users simply via their web browser. 
+A PaaS provider hosts the hardware and software on its own infrastructure. As a result, PaaS frees users from having to install in-house hardware and software to develop or run a new application. 
+Thus, the development and deployment of the application take place independent of the hardware. The consumer does not manage or control the underlying cloud infrastructure including network, servers, operating systems, or storage,
+ but has control over the deployed applications and possibly configuration settings for the application-hosting environment. To make it simple, take the example of an annual day function, you will have two options either to create a venue or to rent a venue but the function is the same.
+
+SAAS : software as a service :
+    It is a way of delivering services and applications over the Internet. Instead of installing and maintaining software, we simply access it via the Internet, 
+freeing ourselves from the complex software and hardware management. It removes the need to install and run applications on our own computers or in the data centers eliminating the expenses of hardware as well as software maintenance. 

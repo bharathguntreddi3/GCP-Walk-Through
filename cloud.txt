@@ -1,0 +1,11 @@
+what is cloud Computing:
+	it is the way of using the IT
+	1.on-demand self-service -  use a simple interface and you get the processing power, storage, and network you need, with no need for human intervention.
+	2.broad network access - you access these resources over the net from anywhere you want.
+	3.resource pooling - the provider of those resources has a big pool of them and allocates them to customers out of that pool.
+	4.rapid elasticity -  If you need more resources you can get more, rapidly.
+	5.measured service - If customers stop using resources, they stop paying. 
+
+
+Google Network :
+larget network of 100000kms of fiber cable and 8 subsea cables

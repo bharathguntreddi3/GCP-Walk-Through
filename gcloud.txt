@@ -1,0 +1,20 @@
+Google Cloud :
+    Google Cloud Platform, offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, 
+such as Google Search, Gmail, Google Drive, and YouTube.
+
+Kubernetes(k8's):
+    Kubernetes is a container management technology developed in Google lab to manage containerized applications in different kind of environments such as physical, virtual, and cloud infrastructure. 
+It is an open source system which helps in creating and managing containerization of application.
+
+-> Kubernetes comes with a capability of automating deployment, scaling of application, and operations of application containers across clusters. It is capable of creating container centric infrastructure.
+
+Features :
+2.1.Continues development, integration and deployment
+3.Containerized infrastructure
+4.Application-centric management
+5.Auto-scalable infrastructure
+6.Environment consistency across development testing and production
+7.Loosely coupled infrastructure, where each component can act as a separate unit
+8.Higher density of resource utilization
+9.Predictable infrastructure which is going to be created
+
