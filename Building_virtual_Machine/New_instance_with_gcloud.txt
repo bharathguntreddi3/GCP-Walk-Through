@@ -1,0 +1,16 @@
+# Instead of using the Cloud Console to create a virtual machine instance, you can use the command line tool gcloud, which is pre-installed in Google Cloud Shell. Cloud Shell is a Debian-based virtual machine loaded with all the development tools you'll need (gcloud, git, and others) and offers a persistent 5-GB home directory
+
+open the cloud Shell
+
+[ gcloud compute instances create gcelab2 --machine-type n1-standard-2 --zone us-central1-f ]         --gcloud to create a new virtual machine instance
+
+[ gcloud compute instances create --help ]        --  TO see all the defaults
+
+To Exit [crtl+c]
+
+[ gcloud compute ssh gcelab2 --zone us-central1-f ]      --Add SSH to connect to your instance via gcloud
+
+[ exit ]     --disconnect
+
+
+

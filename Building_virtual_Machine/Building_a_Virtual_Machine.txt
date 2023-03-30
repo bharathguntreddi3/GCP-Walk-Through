@@ -1,0 +1,3 @@
+[ gcloud auth list ]    --list the account names 
+
+[ gcloud config list project ]    --list the project ID

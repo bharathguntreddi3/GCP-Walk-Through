@@ -1,0 +1,18 @@
+# In this I am gonna discuss hwo to create a new pre-defined machine types with computer engine from the google cloud console
+
+open the google console
+1. navigation > compute engine > VM Instances
+2.click Create Instances
+
+Parameters:
+Name - gcelab : Name for the VM Instances
+Region - Asia-south1 : Region
+Zone - Asia-south-1 : Zone
+Series - N1 : Name of the Series
+Machine Type - z vCPU - 2 cpu and 7.5gb ram Instances
+Boot Disc - New 10gb balanced persistent disk OS image- Debisn : Boot details
+Firewall - Allow HTTP Traffic : To access a web server
+
+3. click CREATE
+
+4. To use SSH to connect to virtual machine click SSH

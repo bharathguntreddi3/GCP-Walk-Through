@@ -1,0 +1,11 @@
+# installig a NGINX web server - One of the most popular web server to connnect your virtual machine to something
+
+[ sudo su - ]     --To get root access 
+
+[ apt-get update ]    -- as the root user, update your OS
+
+[ apt-get install nginx -y ]      -- install NGINX 
+
+[ ps auwx | grep nginx ]        -- confirm that NGINX is running
+
+To see the Web page return to google console and click on the external IP link in the row 
