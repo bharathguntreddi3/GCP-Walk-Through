@@ -1,0 +1,29 @@
+queue : delete at start and insert at end(FIFO)
+stack : insert at top and delete at top(LIFO)
+Process : A program or an action 
+program counter : an index in the code where the line or program being executed
+The elements are stored in the stack an stack is used to retun values
+local variables alsko on the top of the stack
+Heaps & registers : holds the variable values or the garbage values collection
+cpu : executes the bunch of codes 
+registers : small collection of data storage 
+cache : fastest memory
+memory
+disk
+big O notation : used to analyze or describes the nehaviour of an algorithm
+O() notation
+example :
+		an algorithm A is O(foo)
+		means algorithm takes less than c*foo time to complete 
+we do not include constants in big O notation
+probability
+DNS : domain name system 
+		it is a collection of servers,throught the world
+	input : a domain name like google.com or oracle.org
+	output : ip address of a web server (that hosts a content)
+IP address : is a unique 'ID' , a unique string pointing to the object
+IP address may refer too a web server hosting a content or an indirect server ex-CDN(content distribution network) 
+Graph : it is network of the one place to other and the conections
+its consists a node or vertex  and edge 
+	vertex : point
+	edge : connecting link between the verstex or node

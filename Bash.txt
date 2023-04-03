@@ -1,0 +1,27 @@
+cd - directory
+pwd - print current working directory
+ls - list the contents in the current directory
+cp - copy
+rm - remove
+echo - print
+cat - concatinate
+less
+grep 
+mkdir make directory
+touch - create files
+chmod - give file permission
+man + help - manual
+
+permissions:
+0=0=nothing
+1=1=execute
+2=2=write
+3=2+1=w+x
+4=4=read
+5=4+1=r+x
+6=4+2=r+w
+7=4+2+1=r+w+x
+
+chmod +x
+or
+chmod 777

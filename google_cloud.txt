@@ -1,0 +1,9 @@
+project_id : baby2938
+project_number : 506637271405
+
+gcloud auth list  #authenticate
+
+gcloud config list project   #list the project
+
+gcloud set project <project_name>    #if there is no existence fo the project set the project 
+
